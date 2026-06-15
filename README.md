@@ -1,3 +1,6 @@
+#Decodelabs Data Analytics Internship - Project 2
+
+
 ## Project Overview 
 
 This project involves a comprehensive analysis of an e-commerce dataset to identify key drivers of sales, customer purchasing patterns, and the effectiveness of marketing channels. The analysis was performed using Microsoft Excel, utilizing Pivot Tables, advanced formulas, and statistical correlation analysis.
